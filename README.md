@@ -12,12 +12,11 @@
 ## The goal of the project 🎯
 Starting from the most basic topics about Kotlin, learning advanced topics by myself and creating an interactive project by sharing the information I have learned with you.
 
-## Project Content 🛠
-It's a project that contains various information and examples about the basics of programming with Kotlin.
-
-
 Technologies it uses
+<br>
 Kotlin
+<br>
 Andoid Studio
+<br>
 Xml
 
